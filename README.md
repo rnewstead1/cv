@@ -11,7 +11,7 @@ _Methodologies:_ Agile, Test Driven Development, pair programming, microservices
 
 ## Employment History
 
-###Principal Engineer, Tes Global
+### Principal Engineer, Tes Global
 _Jan 2020 - present_
 
 I lead remote-first teams of software engineers building products for schools to recruit teachers. A large part of my job is mentoring and enabling individuals to be more effective. I also focus on helping teams work better together across multiple locations and timezones. We build services that look after high-risk and special category data. We consider risk in everything we do and ensure necessary security measures are in place. We take a lean approach to product development in order to get products in front of users quickly.
