@@ -5,8 +5,11 @@ _Experienced software engineer and leader focused on building great products and
 I've been a software engineer for nine years, working across a range of domains and technologies. Most recently I've been building full stack Node.js microservices to help teachers and schools at Tes. In the last year I've been leading teams of four to seven engineers working across multiple locations and timezones. I've helped to build a remote-first culture through mentoring and coaching individuals and teams. I'm happiest helping teams work together and building great products.
 
 _Programming languages:_ Node.js, Java, Clojure, Scala
+
 _Database technologies:_ Mongodb, Postgres, Solr, Cassandra
+
 _Other:_ SAML, OpenID Connect, Docker, Kubernetes
+
 _Methodologies:_ Agile, Test Driven Development, pair programming, microservices
 
 ## Employment History
