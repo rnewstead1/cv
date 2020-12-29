@@ -4,25 +4,21 @@ _Experienced software engineer and leader focused on building great products and
 ## About me
 I've been a software engineer for nine years, working across a range of domains and technologies. Most recently I've been building full stack Node.js microservices to help teachers and schools at Tes. In the last year I've been leading teams of four to seven engineers working across multiple locations and timezones. I've helped to build a remote-first culture through mentoring and coaching individuals and teams. I'm happiest helping teams work together and building great products.
 
-_Programming languages:_ Node.js, Java, Clojure, Scala
-
-_Database technologies:_ Mongodb, Postgres, Solr, Cassandra
-
-_Other:_ SAML, OpenID Connect, Docker, Kubernetes
-
-_Methodologies:_ Agile, Test Driven Development, pair programming, microservices
-
 ## Employment History
 
 ### Principal Engineer, Tes Global
-_Jan 2020 - present_
+_Feb 2016 - present_
 
-I lead remote-first teams of software engineers building products for schools to recruit teachers. A large part of my job is mentoring and enabling individuals to be more effective. I also focus on helping teams work better together across multiple locations and timezones. We build services that look after high-risk and special category data. We consider risk in everything we do and ensure necessary security measures are in place. We take a lean approach to product development in order to get products in front of users quickly.
+I lead remote-first teams of software engineers building products to help schools recruit teachers. We build full-stack microservices in Nodejs and React across a range of products that help teachers apply for jobs and schools find the right teachers.
 
-### Senior Engineer, Tes Global
-_Feb 2016 - Jan 2020_
-
-Building full stack microservices in Nodejs to help teachers and schools. I worked on products to support teachers applying for jobs online and for schools to manage applications.
+My job includes:
+- mentoring and helping individuals to be more effective through pairing and coaching
+- helping teams work better together across multiple locations and timezones
+- collaborating with product owners to plan and specify work and advocating a lean approach to product development to get products in front of users quickly
+- working with high-risk and special category and considering risk in everything we do
+- designing and implementing scalable microservices
+- working with other Principal Engineers to lead technology choices and share ways of working
+- helping to define an engineering career ladder for the engineering team
 
 ### Consultant, Thoughtworks
 _March 2014 - Feb 2016_
@@ -63,6 +59,16 @@ Two year graduate scheme consisting of a six week intensive training course on a
 
 * #### Agile Web Developer, Innovations Team
   Front end web development using HTML, CSS, Javascript, JQuery. Some back end development using PHP and Wordpress. Agile environment with small projects and weekly iterations.
+
+## Technologies
+
+_Programming languages:_ Node.js, Java, Clojure, Scala
+
+_Database technologies:_ Mongodb, Postgres, Solr, Cassandra
+
+_Other:_ SAML, OpenID Connect, Docker, Kubernetes
+
+_Methodologies:_ Agile, Test Driven Development, pair programming, microservices
 
 ## Qualifications
 * The University of York (2005 - 2008)
