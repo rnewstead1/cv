@@ -64,7 +64,7 @@ Two year graduate scheme consisting of a six week intensive training course on a
 
 _Programming languages:_ Node.js, Java, Clojure, Scala
 
-_Database technologies:_ Mongodb, Postgres, Solr, Cassandra
+_Database technologies:_ Mongodb, Postgres, Solr
 
 _Other:_ SAML, OpenID Connect, Docker, Kubernetes
 
