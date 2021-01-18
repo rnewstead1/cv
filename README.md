@@ -19,6 +19,8 @@ My job includes:
 - designing and implementing scalable microservices
 - working with other Principal Engineers to lead technology choices and share ways of working
 - helping to define an engineering career ladder for the engineering team
+- organising technical demos to the business
+- co-hosting an openspace across engineering teams and multiple timezones
 
 ### Senior Software Engineer, Tes Global
 _Feb 2016 - Sept 2019_
