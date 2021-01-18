@@ -7,7 +7,7 @@ I've been a software engineer for nine years, working across a range of domains 
 ## Employment History
 
 ### Principal Engineer, Tes Global
-_Feb 2016 - present_
+_Sept 2019 - Jan 2021_
 
 I lead remote-first teams of software engineers building products to help schools recruit teachers. We build full-stack microservices in Nodejs and React across a range of products that help teachers apply for jobs and schools find the right teachers.
 
@@ -19,6 +19,12 @@ My job includes:
 - designing and implementing scalable microservices
 - working with other Principal Engineers to lead technology choices and share ways of working
 - helping to define an engineering career ladder for the engineering team
+
+### Senior Software Engineer, Tes Global
+_Feb 2016 - Sept 2019_
+
+Introduced online job application forms for teachers, and an ATS (Application Tracking System) for schools to manage applications using Nodejs microservices. I worked on several small teams, latterly taking a leading role to define and prioritise work with a Product Manager, and training new joiners.
+
 
 ### Consultant, Thoughtworks
 _March 2014 - Feb 2016_
