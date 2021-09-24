@@ -6,6 +6,13 @@ I've been a software engineer for nine years, working across a range of domains 
 
 ## Employment History
 
+### Principal Software Engineer, Octopus Hydrogen
+I'm currently working with Octopus Hydrogen, developing hydrogen production sites to supply zero emission fuel to HGVs, buses and aviation. We’re developing an IoT solution with support from AWS that will enable us to ramp up/down operations depending on the price of electricity and the availability of renewable power.
+
+### Senior Software Engineer, Administrate
+_Jan 2021 - Aug 2021_
+I led a small scrum team responsible for Administrate's Learning Management System (LMS). My responsibilities included planning the delivery of projects with customers, running scrum ceremonies, and building software solutions using Python, NodeJS, React and TypeScript.
+
 ### Principal Engineer, Tes Global
 _Sept 2019 - Jan 2021_
 
